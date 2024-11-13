@@ -1,1 +1,1 @@
-Yo, just python kurs lab :)
+Yo, just python course lab :)
